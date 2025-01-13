@@ -1,6 +1,6 @@
 # cervical-cancer-biopsy-prediction
 
- Classify if the patient needs a biopsy based on cervical cancer risk factors
+ Classify if patients need a biopsy based on cervical cancer risk factors
 
  Classifier used: KNN, Decision Tree, Naive Bayes
 
